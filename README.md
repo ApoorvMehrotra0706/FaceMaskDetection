@@ -14,3 +14,6 @@ CMPE 255 Term Project
   - The trained model face_detector_model.h5 is loaded on the face_mask_detection_transfer_learning_model.ipynb file. 
   - Additional supporting files/folders like assets, variables and saved_model.pb should also be in the same path as the saved model and should have permissions to access.
   - Finally, the models runs on the input images to indicate the classification, with_mask, without_mask and incorrect_mask
+
+### References
+https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector
