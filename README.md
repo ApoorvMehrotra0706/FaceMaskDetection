@@ -1,7 +1,7 @@
 # FaceMaskDetection
 CMPE 255 Term Project
 
-### To run Transfer Learning Vgg16Model
+### To run the Transfer Learning Vgg16Model
 
 * Step 1: Create the model
   - First run the facemask_detector.ipynb file. 
